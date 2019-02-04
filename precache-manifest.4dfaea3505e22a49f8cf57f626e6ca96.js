@@ -28,6 +28,10 @@ self.__precacheManifest = [
     "url": "/static/media/comic_book_bold_italic-webfont.46128326.woff2"
   },
   {
+    "revision": "6cb69085462196d274e2b4d768a0344f",
+    "url": "/static/media/comic_book_bold-webfont.6cb69085.woff2"
+  },
+  {
     "revision": "7941706c767716f54bb2a12bf779895c",
     "url": "/static/media/comic_book_italic-webfont.7941706c.woff2"
   },
@@ -36,12 +40,12 @@ self.__precacheManifest = [
     "url": "/static/media/comic_book-webfont.2bf45128.woff2"
   },
   {
-    "revision": "64f3194736b3d3fb069df384166997cd",
-    "url": "/static/media/comic_book_bold_italic-webfont.64f31947.woff"
-  },
-  {
     "revision": "a09696e2c99bbeb3246f8a1551fadb2a",
     "url": "/static/media/comic_book_bold-webfont.a09696e2.woff"
+  },
+  {
+    "revision": "64f3194736b3d3fb069df384166997cd",
+    "url": "/static/media/comic_book_bold_italic-webfont.64f31947.woff"
   },
   {
     "revision": "c33e2be6195eb75ef25363b4b142df15",
@@ -50,10 +54,6 @@ self.__precacheManifest = [
   {
     "revision": "b074a3d8aedcff4458fbb503d38899b5",
     "url": "/static/media/comic_book-webfont.b074a3d8.woff"
-  },
-  {
-    "revision": "6cb69085462196d274e2b4d768a0344f",
-    "url": "/static/media/comic_book_bold-webfont.6cb69085.woff2"
   },
   {
     "revision": "491a33d0482061bab1372e3b3deff65e",
@@ -104,7 +104,7 @@ self.__precacheManifest = [
     "url": "/static/media/providerPortal.42cab1cb.png"
   },
   {
-    "revision": "f65d6709c448ab6771866962d82733aa",
+    "revision": "954bc9f8bacc31f54f0fdfdaf84ad9ac",
     "url": "/index.html"
   }
 ];
